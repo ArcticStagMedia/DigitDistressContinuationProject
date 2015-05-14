@@ -1,4 +1,4 @@
-private var motor : CharacterMotor;
+ private var motor : CharacterMotor;
 
 // Use this for initialization
 function Awake () {
